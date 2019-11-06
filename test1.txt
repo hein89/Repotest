@@ -1,10 +1,1 @@
- Datentr„ger in Laufwerk C: ist Windows
- Volumeseriennummer: 74DA-2AAD
-
- Verzeichnis von C:\Users\HL05596\Desktop\MyGitProject
-
-06.11.2019  11:06    <DIR>          .
-06.11.2019  11:06    <DIR>          ..
-06.11.2019  11:06                 0 test1.txt
-               1 Datei(en),              0 Bytes
-               2 Verzeichnis(se), 75.584.856.064 Bytes frei
+change 1
